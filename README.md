@@ -19,3 +19,6 @@ Cuts a new file into pieces: manual cutting, or identifying dark pixels : Vladim
 
 Task 4:
 Read information/ text mining in each piece (text and checkboxes) and extract it and save it: Alex +Julia +PP
+
+An example of how to monitor new emails in Outlook (with an add on to screen Outlook when it is opened:
+https://stackoverflow.com/questions/49695160/how-to-continuously-monitor-a-new-mail-in-outlook-and-unread-mails-of-a-specific
