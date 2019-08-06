@@ -22,3 +22,24 @@ Read information/ text mining in each piece (text and checkboxes) and extract it
 
 An example of how to monitor new emails in Outlook (with an add on to screen Outlook when it is opened:
 https://stackoverflow.com/questions/49695160/how-to-continuously-monitor-a-new-mail-in-outlook-and-unread-mails-of-a-specific
+
+
+Microsoft REST API
+https://docs.microsoft.com/en-us/graph/api/resources/message?view=graph-rest-1.0
+
+see List attachments method
+https://docs.microsoft.com/en-us/graph/api/message-list-attachments?view=graph-rest-1.0&tabs=http
+
+Get attachment
+https://docs.microsoft.com/en-us/graph/api/attachment-get?view=graph-rest-1.0&tabs=http
+
+Desktop app that calls web APIs - acquire a token
+https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-desktop-acquire-token
+
+Acquire a token and call Microsoft Graph API from a Windows desktop app
+https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-windows-desktop
+
+Downloading Outlook attachments with REST API?
+https://stackoverflow.com/questions/38219479/downloading-outlook-attachments-with-rest-api
+
+
